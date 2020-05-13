@@ -1,0 +1,13 @@
+* { 
+    background-color: lavenderblush;
+}
+
+h1 {
+    color: rgb(25, 42, 81);
+    text-align: center;
+}
+
+button {
+    color: rgb(170, 161, 200);
+    justify-content: center;
+}
